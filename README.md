@@ -12,9 +12,9 @@ Hello, World. I'm Minji Kim . A creative frontEnd Developer love Coding 👩🏻
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='30'>](https://www.instagram.com/mi_nzi/)  
 
-[<img src='https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png' alt='codepen' height='30'>](https://codepen.io/mandy0529)  
+[<img src='https://external-preview.redd.it/QJR9EFbelLAg4a8DfHwFF7PJO1lIFWkda9mB81WJUow.jpg?width=640&crop=smart&auto=webp&s=baf5ef7ccdd714fb30ff8255360fff5286b809f3' alt='codepen' height='30' >](https://codepen.io/mandy0529)  
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='30'>](https://splashy-chicken-6f1.notion.site/aa63baf113f24e46a2cefa4f297a9590) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/mi_nzi)  
+[<img src='https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/mi_nzi)   
 

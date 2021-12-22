@@ -14,7 +14,7 @@ Hello, World. I'm Minji Kim . A creative frontEnd Developer love Coding 👩🏻
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/mandy0529)  
 
-[<img src='https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo.png' alt='notion' height='30'>](https://splashy-chicken-6f1.notion.site/aa63baf113f24e46a2cefa4f297a9590) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='30'>](https://splashy-chicken-6f1.notion.site/aa63baf113f24e46a2cefa4f297a9590) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/mi_nzi)  
 

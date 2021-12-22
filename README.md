@@ -8,7 +8,7 @@ Hello, World. I'm Minji Kim . A creative frontEnd Developer love Coding 👩🏻
 
 ### You can See me at all !
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='30' >](https://github.com/mandy0529)  
+[<img src='https://pngimg.com/uploads/github/github_PNG28.png' alt='github' height='30' >](https://github.com/mandy0529)  
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='30'>](https://www.instagram.com/mi_nzi/)  
 

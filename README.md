@@ -1,7 +1,5 @@
  ## Good day,  Minji️ : )
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy0529)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ 
 
 Hello, World. I'm Minji Kim . A creative frontEnd Developer love Coding 👩🏻‍💻 with Traveling 🏕  wherever.
 ### What I Can Do

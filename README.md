@@ -8,13 +8,5 @@ Hello, World. I'm Minji Kim . A creative frontEnd Developer love Coding 👩🏻
 
 ### You can See me at all !
 
-[<img src='https://pngimg.com/uploads/github/github_PNG28.png' alt='github' height='30' >](https://github.com/mandy0529)  
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='30'>](https://www.instagram.com/mi_nzi/)  
-
-[<img src='https://cdn.iconscout.com/icon/free/png-256/free-codecamp-3550667-2970272.png' alt='codepen' height='30' >](https://codepen.io/mandy0529)  
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='30'>](https://splashy-chicken-6f1.notion.site/aa63baf113f24e46a2cefa4f297a9590) 
-
-[<img src='https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/mi_nzi)   
+[<img src='https://pngimg.com/uploads/github/github_PNG28.png' alt='github' height='30' >](https://github.com/mandy0529)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='30'>](https://www.instagram.com/mi_nzi/)   [<img src='https://cdn.iconscout.com/icon/free/png-256/free-codecamp-3550667-2970272.png' alt='codepen' height='30' >](https://codepen.io/mandy0529)  [<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='30'>](https://splashy-chicken-6f1.notion.site/aa63baf113f24e46a2cefa4f297a9590) [<img src='https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/mi_nzi)   
 

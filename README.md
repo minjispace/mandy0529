@@ -3,7 +3,7 @@
 
 Hello, World 🌏 
 
-Shoulda, Woulda, Coulda, It Didn't. 🙅🏻‍♀️  
+Shoulda, Woulda, Coulda are didn't do anything. 🙅🏻‍♀️   
 
 I Will Keep Trying My Best In EverythingFor My Dazzling Daily Life✨
 

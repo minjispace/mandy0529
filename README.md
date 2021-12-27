@@ -4,7 +4,7 @@ Hello, World 🌏
 
 Shoulda, Woulda, Coulda are didn't do anything. 🙅🏻‍♀️   
 
-I Will Keep Trying My Best In EverythingFor My Dazzling Daily Life✨
+I will keep trying my best in everythingFor My dazzling Daily Life✨
 
 
 

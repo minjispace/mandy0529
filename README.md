@@ -1,16 +1,10 @@
  ## Good day,  Minji️ : )
  
- “ 나무 같은 개발자 🌳  “ 김민지 입니다 .    
+ Shoulda, Woulda, Coulda are didn't do anything.
  
- 나무를 좋아하고 , 
+ Do something what I wanna do and Learn more and Go get it!!
  
- 나무가 숲을 이룬 초록 공간에서의 캠핑을 좋아하고 🏕 ,
- 
- 초록색을 가장 좋아하는 저는
- 
- 매일, 매 순간, 
- 
- 성장 해나가고, 배워 나가고 있습니다 .
+ I will keep trying my best for my Dazzling daily life .
 
 
 
